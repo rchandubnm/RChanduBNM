@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Chandu Badrinath 👋
+# Hi, I'm Chandu 👋
 
 ### Java Developer & AI/ML Engineer
 
